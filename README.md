@@ -1,6 +1,3 @@
-
-![LinkedIn Banner](https://github.com/davinzaki/davinzaki/assets/101463185/05490c5e-11df-4921-9738-117f27f6b5bc)
-
 # 💫 About Me:
 Howdy! My name is Davin Zaki Pradipa. I am student at SMKN 7 Semarang, currently i learning about Web Development and i focusing in Fullstack. Now, i interested in PHP framework Laravel and still learning about it. Nice to meet ya!
 
