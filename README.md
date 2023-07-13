@@ -15,4 +15,6 @@ Howdy! My name is Davin Zaki Pradipa. I am student at SMKN 7 Semarang, currently
 ---
 [![](https://visitcount.itsvg.in/api?id=davinzaki&icon=0&color=12)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/davinzaki/davinzaki/blob/output/github-contribution-grid-snake.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
