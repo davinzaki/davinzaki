@@ -1,5 +1,5 @@
 # About Me:
-Howdy! My name is Davin Zaki Pradipa. I am student at SMKN 7 Semarang, currently i learning about Web Development and i focusing in Fullstack. Now, i interested in PHP framework Laravel and still learning about it. Nice to meet ya!
+Howdy! My name is Davin Zaki Pradipa. Currently i learning about Web Development and i focusing in Front End.  Nice to meet you!
 
 
 ## Socials:
