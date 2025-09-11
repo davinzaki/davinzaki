@@ -1,5 +1,5 @@
 # About Me:
-Hi! My name is Davin Zaki Pradipa. Currently i learning about Web Development and i focusing in Front End.  Nice to meet you!
+Hi. My name is Davin Zaki Pradipa. Currently i learning about Web Development and i focusing in Front End.  Nice to meet you!
 
 
 ## Socials:
