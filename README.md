@@ -11,6 +11,4 @@ Hi. My name is Davin Zaki Pradipa. Currently i learning about Web Development an
 ---
 [![](https://visitcount.itsvg.in/api?id=davinzaki&icon=0&color=12)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/davinzaki/davinzaki/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
